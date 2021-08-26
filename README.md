@@ -1,2 +1,2 @@
 # esphome
-esphome configurations
+Where I am putting ESPhome configurations
